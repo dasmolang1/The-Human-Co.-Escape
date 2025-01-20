@@ -7,3 +7,12 @@ Still being worked on, currently in Alpha.
 
 Download Alpha 0.4.1 Now!
 Download: https://github.com/dasmolang1/The-Human-Co.-Escape/releases/tag/Alpha
+
+
+
+
+ROADMAP:
+
+Next Alpha - New Levels. New Dead graphics (not always the same). Getting a proper story done.
+
+
