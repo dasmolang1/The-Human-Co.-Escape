@@ -1,0 +1,17 @@
+
+-----------
+
+ACHIEVEMENTS FOR ALPHA 0.4.1
+
+-----------
+
+
+1"BOOM, HEADSHOT!" - Kill a single enemy.
+2"IM CODE 4 BABY!" - Clear the first level.
+3"Shhh..." - Kill all enemies behind doors in level 3.
+4"Why so fast body?" - Kill the faster enemy in level 3.
+5"I AINT FORGETTING YOU!" - Kill the enemy behind the wall at the start of level 2.
+6"Zombies! Yay!" - Fail to start the zombie mode.
+7"Namaste friend" - Kill nobody in Level 3.
+8"The Human Co Inc." - Find a Human Co Inc sign.
+9"King of nobody." - Kill everyone in Level 4.
