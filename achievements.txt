@@ -15,3 +15,5 @@ ACHIEVEMENTS FOR ALPHA 0.4.1
 7"Namaste friend" - Kill nobody in Level 3.
 8"The Human Co Inc." - Find a Human Co Inc sign.
 9"King of nobody." - Kill everyone in Level 4.
+10"Peacemaker." - Kill nobody.
+11"AFK brb.." - Enter a level and stay in place for 20 Minutes.
