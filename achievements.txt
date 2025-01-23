@@ -17,3 +17,5 @@ ACHIEVEMENTS FOR ALPHA 0.4.1
 9"King of nobody." - Kill everyone in Level 4.
 10"Peacemaker." - Kill nobody.
 11"AFK brb.." - Enter a level and stay in place for 20 Minutes.
+12"Why is this an Achievement??" - Start the game.
+13"Im an OG Man!" - Play at least 1 Alpha version when it came out.
