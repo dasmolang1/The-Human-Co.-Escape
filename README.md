@@ -5,8 +5,8 @@ Started this in december of last year (2024).
 Used gamemaker and had much fun.
 Still being worked on, currently in Alpha.
 
-Download Alpha 0.5 Now!
-Download: https://github.com/dasmolang1/The-Human-Co.-Escape/releases/tag/vA0.5
+Download Beta 2 Now!
+Download: https://github.com/dasmolang1/The-Human-Co.-Escape/releases/tag/vB2
 
 
 
